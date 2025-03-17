@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 About Me
+- 🌱 I’m currently learning **Data Engineering, AI, Cloud**
+- 💬 Ask me about **Python, SQL, Azure, AI**
+- 📫 How to reach me: [Email](mailto:ybonghy@naver.com) | [LinkedIn](https://linkedin.com/in/bongs1001)
+
+## 🛠️ Skills
+- **Languages**: Python, SQL, JavaScript
+- **Tools & Tech**: Azure, Power BI, Git, Hugging Face, Pandas, Django
